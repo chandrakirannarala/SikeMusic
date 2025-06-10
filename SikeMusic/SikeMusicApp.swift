@@ -2,7 +2,7 @@
 //  SikeMusicApp.swift
 //  SikeMusic
 //
-//  Created by chandrakiran narala on 6/10/25.
+//  Simplified - Audio session handled in ViewModel
 //
 
 import SwiftUI
@@ -16,3 +16,5 @@ struct SikeMusicApp: App {
         }
     }
 }
+
+
